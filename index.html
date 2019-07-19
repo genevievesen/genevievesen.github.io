@@ -3,9 +3,10 @@ layout: default
 ---
 
 <div class="home">
-
+  <form style="center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=github/QqgF', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p>
+    <input type="text" style="width:100px" name="email"/></p><input type="hidden" value="github/QqgF" name="uri"/>
+    <input type="hidden" name="loc" value="en_US"/><input type="submit" value="Subscribe" /></form>
   <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -17,7 +18,4 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
