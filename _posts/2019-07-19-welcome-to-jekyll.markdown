@@ -1,25 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The beginning"
 date:   2019-07-19 12:09:54 -0400
-categories: jekyll update
+categories: TFE
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+On the first day of my very first full-time job, a highly sought after and extremely male dominated cyber security position, I received an email from my appointed mentor outlining some important policies. The dress code section of the email stated that most men wear business casual attire and “most women in the office wear a corresponding equivalent”. Generally speaking, men and women dress differently. If you google business casual the following items of clothing may pop up; button up shirt, polo, khakis, blouse, skirt. By this definition our society is saying that a man wearing a polo and khaki pants looks the same as a women wearing a blouse and skirt, which is not correct. This is nowhere near equivalent. I can even take it a step further and make the claim that  in most situations that man in a polo and khakis will automatically have more respect in the workplace than the woman in a skirt and blouse. Humans are visual creatures. Most of us make decisions on people before we even speak to them. I vehemently believe that workplace dress codes are a top factor in gender inequality. The only way to reverse or mitigate the damage done by these societal norms is to take several steps back and try and understand the differences between masculine and feminine energy, how we project our energies, and most importantly, how others receive it.

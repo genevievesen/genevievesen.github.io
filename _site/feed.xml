@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Female Equivalent</title>
+    <description>I believe that gender inequality in the workplace starts with the societal and workplace norms surrounding dress code
+</description>
+    <link>genevievesen.github.io/</link>
+    <atom:link href="genevievesen.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 19 Jul 2019 12:18:59 -0400</pubDate>
+    <lastBuildDate>Fri, 19 Jul 2019 12:18:59 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>The beginning</title>
+        <description>&lt;p&gt;On the first day of my very first full-time job, a highly sought after and extremely male dominated cyber security position, I received an email from my appointed mentor outlining some important policies. The dress code section of the email stated that most men wear business casual attire and “most women in the office wear a corresponding equivalent”. Generally speaking, men and women dress differently. If you google business casual the following items of clothing may pop up; button up shirt, polo, khakis, blouse, skirt. By this definition our society is saying that a man wearing a polo and khaki pants looks the same as a women wearing a blouse and skirt, which is not correct. This is nowhere near equivalent. I can even take it a step further and make the claim that  in most situations that man in a polo and khakis will automatically have more respect in the workplace than the woman in a skirt and blouse. Humans are visual creatures. Most of us make decisions on people before we even speak to them. I vehemently believe that workplace dress codes are a top factor in gender inequality. The only way to reverse or mitigate the damage done by these societal norms is to take several steps back and try and understand the differences between masculine and feminine energy, how we project our energies, and most importantly, how others receive it.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 19 Jul 2019 12:09:54 -0400</pubDate>
+        <link>genevievesen.github.io/tfe/2019/07/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">genevievesen.github.io/tfe/2019/07/19/welcome-to-jekyll.html</guid>
+        
+        
+        <category>TFE</category>
+        
+      </item>
+    
+  </channel>
+</rss>
