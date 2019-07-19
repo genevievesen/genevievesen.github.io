@@ -6,11 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Female Equivalent
+title: Blog
 email: genevievesen23@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I believe that gender inequality in the workplace starts with the societal
-  and workplace norms surrounding dress code
+  Blog for all things cyber!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "genevievesen.github.io" # the base hostname & protocol for your site
 github_username:  genevievesen

@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "The beginning"
+title:  "What is a Computer?"
 date:   2019-07-19 12:09:54 -0400
 categories: TFE
 ---
-On the first day of my very first full-time job, a highly sought after and extremely male dominated cyber security position, I received an email from my appointed mentor outlining some important policies. The dress code section of the email stated that most men wear business casual attire and “most women in the office wear a corresponding equivalent”. Generally speaking, men and women dress differently. If you google business casual the following items of clothing may pop up; button up shirt, polo, khakis, blouse, skirt. By this definition our society is saying that a man wearing a polo and khaki pants looks the same as a women wearing a blouse and skirt, which is not correct. This is nowhere near equivalent. I can even take it a step further and make the claim that  in most situations that man in a polo and khakis will automatically have more respect in the workplace than the woman in a skirt and blouse. Humans are visual creatures. Most of us make decisions on people before we even speak to them. I vehemently believe that workplace dress codes are a top factor in gender inequality. The only way to reverse or mitigate the damage done by these societal norms is to take several steps back and try and understand the differences between masculine and feminine energy, how we project our energies, and most importantly, how others receive it.
+
+Computers are electronic computer hardware. They do mathematical arithmetic very quickly but computers do not really "think". They only follow the instructions in their software programs. The software uses the hardware when the user gives it instructions, and gives useful output. 
